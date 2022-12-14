@@ -10,10 +10,10 @@ languages:
 ---
 # Alert to Slack with Logic app
 
-This code is forked from [Azure/azure-quickstart-templates] which was not working now due to some wrong code snippet like using google api.
-All wrong code snippet is modified and current schema of Azure Alert was applied to this template.
+This code is forked from [Azure/azure-quickstart-templates](https://github.com/azure/azure-quickstart-templates/tree/master/demos/alert-to-slack-with-logic-app) which was not working now due to some wrong code snippet like using google api.
+All wrong code snippets were modified and current schema of Azure Alert was applied to this template.
 
-## Azure Alert common schemea
+## Azure Alert common schema
 
 * Azure Alert common schema is here: https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-common-schema-definitions
 * Common schema for Logic App is here: https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-logic-apps
